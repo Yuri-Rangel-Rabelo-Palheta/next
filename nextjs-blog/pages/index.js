@@ -13,7 +13,7 @@ export default function Home() {
           Welcome to <a href="/posts/first-post">proxima página!</a>
         </h1>
         <p>
-          <img src="/images/profile.jpg" alt="Your Name" />
+          <img src="/images/perfil.jpg" alt="Your Name" />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
