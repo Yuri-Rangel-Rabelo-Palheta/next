@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="/posts/first-post">Next.js!</a>
+          Welcome to <a href="/posts/first-post">proxima página!</a>
         </h1>
 
         <p className="description">
